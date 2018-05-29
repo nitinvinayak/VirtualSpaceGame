@@ -7,8 +7,6 @@ import random
 import os
 import time
 
-#starting time
-
 #setup screen
 wn=turtle.Screen()
 wn.bgcolor("black")
